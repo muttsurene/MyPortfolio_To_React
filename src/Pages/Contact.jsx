@@ -1,6 +1,6 @@
 import React from "react";
-import { MdOutlineEmail } from "react-icons/md";
-import { FaPhone } from "react-icons/fa6";
+// import { MdOutlineEmail } from "react-icons/md";
+// import { FaPhone } from "react-icons/fa6";
 
 function Contact() {
   return (
@@ -12,15 +12,15 @@ function Contact() {
         <div className="flex p-0">
           <div className="grid grid-rows-3 mx-0 p-0">
             <h2 className="flex items-center mx-10 p-1 font-bold">
-              <MdOutlineEmail />
+              {/* <MdOutlineEmail /> */}
               <span>:Tromanjr52@gmail.com</span>
             </h2>
             <h2 className="flex items-center mx-10 p-1 font-bold">
-              <MdOutlineEmail />
+              {/* <MdOutlineEmail /> */}
               <span>:romanosoledad@yahoo.com</span>
             </h2>
             <h3 className="flex items-center mx-10 p-1 font-bold">
-              <FaPhone />
+              {/* <FaPhone /> */}
               <span>:09753012275</span>
             </h3>
           </div>
