@@ -25,6 +25,7 @@ function Home() {
                     knowledge, gained experiences and further enhance them to
                     contribute to my development as an individual.
                   </p>
+                  {/* <p>hii</p> */}
                   <img
                     className="h-[50%] ml-auto p-2 rounded-[40px] w-[30%]"
                     src="../Roman A. Soledad Jr-2x2Pic.jpg"
